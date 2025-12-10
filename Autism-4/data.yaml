@@ -1,0 +1,9 @@
+path: Autism-4
+
+train: train
+val: valid
+test: test
+
+nc: 2
+names: ["Autism", "No_Autism"]
+
